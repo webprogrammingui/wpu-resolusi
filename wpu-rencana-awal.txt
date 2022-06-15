@@ -1,6 +1,9 @@
 RENCANA AWAL WPU
 
 - JAVASCRIPT
+-ES6
+- framework javascript
 -PHP FRAMEWORK
+-stuktur data dasar
 - INTERVIEW
 - VLOGS
